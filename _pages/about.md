@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    California Institue of Technology
-    Pasadena, CA 91125, US
+    # California Institue of Technology
+    # Pasadena, CA 91125, US
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
