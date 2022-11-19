@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Building Molecular Solutions to Scientific Challenges Using Theory and Computations
 
 profile:
   align: right
@@ -26,14 +26,16 @@ B.L. is currently a graduate student at Caltech (2021-present), working with pio
 * Computational predictions of novel organic semiconductors
 * Geometric deep learning for data-driven molecular discovery
 
+While still in transition, computational biology will be B.L.'s main research focus in the upcoming years.
+
 Prior to this, B.L. obtained a B.S. in Chemistry from studies in Tianjin and Nankai Universities with visits to UCLA, UC Berkeley and Caltech. He worked with Profs. [K. N. Houk](https://www.chem.ucla.edu/houk/) (UCLA), Yanfeng Dang (TJU), Dongbing Zhao (NKU) and many others on computational studies of complex catalytic reactions regarding:
 
 * Mechanism of enzyme catalysis involved in biosynthesis
-* Quantitative models of asymmetric induction in stereodivergent dual transition-metal catalysis
+* Quantitative models of asymmetric induction in stereodivergent dual transition-metal catalysis, as well as general *in silico* toolkits for understanding stereodifferentiation
 * Photochemical reactions, in particular synergistic photoredox/transition-metal catalysis and organophotoredox catalysis
-* Organometallic reactions regarding both novel high-valent reactivities in strained-ring and organosilicon chemistry and methodological studies
-* General *in silico* toolkits for understanding stereodifferentiation
-* Reaction dynamics involving post-transition state bifurcation in transition metal catalysis
+* Organometallic reactions regarding: a) novel high-valent reactivities in organosilicon chemistry and strained-ring transformations, b) complex solvation effects on asymmetric induction, and c) methodological studies
+* Utilization of attractive dispersion effects as a novel means of controlling catalytic complexity-building reactions such as those mentioned above
+* Quasiclassical trajectory simulations for non-statistical reaction dynamics involving post-transition state bifurcation in transition metal catalysis
 * Fundamental theories of chemical reactions, energy decomposition analyses and beyond
 
 He also worked with Profs. [Thomas F. Miller](https://millergroup.caltech.edu/Miller_Group/Home.html) (Caltech and Entos, Inc.) and Dongbing Zhao (NKU) on computational materials discovery:
@@ -43,3 +45,5 @@ He also worked with Profs. [Thomas F. Miller](https://millergroup.caltech.edu/Mi
 * Electrochemical and spectroscopic properties of superoxidized radical cationic dodecaborate-based clusters
 * De novo generative molecular/materials discovery
 * Data-driven methods for large-scale quantum yield prediction
+
+Collaborations are welcomed (please e-mail).
