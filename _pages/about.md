@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Solving Scientific Challenges through a Computational Lens into the Molecular World
+subtitle: 
 
 profile:
   align: right
