@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    # California Institue of Technology
-    # Pasadena, CA 91125, US
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -30,9 +28,11 @@ B.L. is currently a graduate student at Caltech (2021-present), working with pio
 
 Prior to this, B.L. obtained a B.S. in Chemistry from studies in Tianjin and Nankai Universities with visits to UCLA, UC Berkeley and Caltech. He worked with Profs. [K. N. Houk](https://www.chem.ucla.edu/houk/) (UCLA), Yanfeng Dang (TJU), Dongbing Zhao (NKU) and many others on computational studies of complex catalytic reactions regarding:
 
-* Asymmetric induction in stereodivergent dual transition-metal catalysis
+* Mechanism of enzyme catalysis involved in biosynthesis
+* Quantitative models of asymmetric induction in stereodivergent dual transition-metal catalysis
 * Photochemical reactions, in particular synergistic photoredox/transition-metal catalysis and organophotoredox catalysis
 * Organometallic reactions regarding both novel high-valent reactivities in strained-ring and organosilicon chemistry and methodological studies
+* General *in silico* toolkits for understanding stereodifferentiation
 * Reaction dynamics involving post-transition state bifurcation in transition metal catalysis
 * Fundamental theories of chemical reactions, energy decomposition analyses and beyond
 
