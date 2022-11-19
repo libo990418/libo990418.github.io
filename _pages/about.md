@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The long-term objective of B.L.'s research has been to computationally enable molecular solutions to scientific and technological challenges in the fields of biology, materials, and catalysis. To this end, he has been working collaboratively or independently at the interface of applied molecular modeling, application-oriented method development, and deep learning, with applications to various domains of relevance.
+The long-term objective of B.L.'s research has been to computationally enable molecular solutions to scientific and technological challenges in the fields of biology, materials, and catalysis. To this end, he has been working collaboratively or independently at the interface of applied molecular modeling, application-oriented method development, and deep learning, with applications to various domains of relevance. B.L. has 17 publications until Nov 2022 (8 as corresponding or (co-)1st author, 4 as 1st computational contributor in collaboration).
 
 B.L. is currently a graduate student at Caltech (2021-present), working with pioneering theoretician Prof. [William A. Goddard, III](https://www.cce.caltech.edu/people/william-a-goddard) on a variety of topics in computational biology, materials, and catalysis. Current interests include:
 
@@ -38,7 +38,7 @@ Prior to this, B.L. obtained a B.S. in Chemistry from studies in Tianjin and Nan
 * Quasiclassical trajectory simulations for non-statistical reaction dynamics involving post-transition state bifurcation in transition metal catalysis
 * Fundamental theories of chemical reactions, energy decomposition analyses and beyond
 
-He also worked with Profs. [Thomas F. Miller](https://millergroup.caltech.edu/Miller_Group/Home.html) (Caltech and Entos, Inc.) and Dongbing Zhao (NKU) on computational materials discovery:
+B.L. also worked with Profs. [Thomas F. Miller](https://millergroup.caltech.edu/Miller_Group/Home.html) (Caltech and Entos, Inc.) and Dongbing Zhao (NKU) on computational materials discovery:
 
 * Multiscale modeling for ultralong organic room-temperature phosphorescence
 * Excited-state processes of novel NBN-embedded materials
