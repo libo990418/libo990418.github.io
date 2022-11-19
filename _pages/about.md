@@ -9,35 +9,37 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>California Institue of Technology</p>
-    <p>Pasadena, CA 91125, US</p>
+    California Institue of Technology
+    Pasadena, CA 91125, US
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- ## Biography -->
+The long-term objective of B.L.'s research has been to computationally enable molecular solutions to scientific and technological challenges in the fields of biology, materials, and catalysis. To this end, he has been working collaboratively or independently at the interface of applied molecular modeling, application-oriented method development, and deep learning, with applications to various domains of relevance.
 
-* 2021-now | California Instutute of Technology (Graduate Researcher, Supervisor: [Prof. William A. Goddard, III](https://www.cce.caltech.edu/people/william-a-goddard))
-* 2020-2021 | California Instutute of Technology (Remote Researcher, Supervisor: [Prof. Thomas F. Miller, III](https://millergroup.caltech.edu/Miller_Group/Home.html))
-* 2020-2021 | University of California, Berkeley (Concurrent Enrollment)
-* 2019-2021 | University of California, Los Angeles (Visiting Researcher, Supervisor: [Prof. K. N. Houk](https://www.chem.ucla.edu/houk/))
-* 2017-2021 | Tianjin and Nankai Universities (Undergraduate Student, Supervisor: Prof. Yanfeng Dang)
+B.L. is currently a graduate student at Caltech (2021-present), working with pioneering theoretician Prof. [William A. Goddard, III](https://www.cce.caltech.edu/people/william-a-goddard) on a variety of topics in computational biology, materials, and catalysis. Current interests include:
 
+* Development of new-generation large-scale simulation techniques
+* Physics-based enzyme design
+* Mechanism of ligand activation for G-protein coupled receptor
+* Structural basis for complexity-building single-atom catalysis
+* Computational predictions of novel organic semiconductors
+* Geometric deep learning for data-driven molecular discovery
 
+Prior to this, B.L. obtained a B.S. in Chemistry from studies in Tianjin and Nankai Universities with visits to UCLA, UC Berkeley and Caltech. He worked with Profs. [K. N. Houk](https://www.chem.ucla.edu/houk/) (UCLA), Yanfeng Dang (TJU), Dongbing Zhao (NKU) and many others on computational studies of complex catalytic reactions regarding:
 
-<!-- ## Research Interests
+* Asymmetric induction in stereodivergent dual transition-metal catalysis
+* Photochemical reactions, in particular synergistic photoredox/transition-metal catalysis and organophotoredox catalysis
+* Organometallic reactions regarding both novel high-valent reactivities in strained-ring and organosilicon chemistry and methodological studies
+* Reaction dynamics involving post-transition state bifurcation in transition metal catalysis
+* Fundamental theories of chemical reactions, energy decomposition analyses and beyond
 
-* **Computational biology and drug discovery.** Focus: mechanism of ligand activation, *in silico* drug discovery, new-generation biological force fields.
-* **Data-driven chemistry and geometric deep learning.** Focus: methods for large-scale simulations beyond the scope of traditional quantum chemistry.
-* **Computational catalysts and reaction dynamics.** Focus: stereodivergent dual transition-metal catalysis, photoredox/transition-metal dualcatalysis, single-atom catalysis, fundamental theories of chemical reactions, etc.
-* **De novo materials design.** Focus: *in silico* materials design of electro- and photochemical relevance. -->
+He also worked with Profs. [Thomas F. Miller](https://millergroup.caltech.edu/Miller_Group/Home.html) (Caltech and Entos, Inc.) and Dongbing Zhao (NKU) on computational materials discovery:
 
+* Electrochemical and spectroscopic properties of superoxidized radical cationic dodecaborate-based clusters
+* De novo generative molecular/materials discovery
+* Data-driven methods for large-scale quantum yield prediction
 
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Please feel free to [e-mail](mailto:bli3@caltech.edu) for collaborations.
