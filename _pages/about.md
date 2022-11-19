@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Molecular Solutions to Scientific Challenges Using Theory and Computation
+subtitle: Solving Scientific Challenges through a Computational Lens into the Molecular World
 
 profile:
   align: right
@@ -38,8 +38,8 @@ Prior to this, B.L. obtained a B.S. in Chemistry from studies in Tianjin and Nan
 
 He also worked with Profs. [Thomas F. Miller](https://millergroup.caltech.edu/Miller_Group/Home.html) (Caltech and Entos, Inc.) and Dongbing Zhao (NKU) on computational materials discovery:
 
+* Multiscale modeling for ultralong organic room-temperature phosphorescence
+* Excited-state processes of novel NBN-embedded materials
 * Electrochemical and spectroscopic properties of superoxidized radical cationic dodecaborate-based clusters
 * De novo generative molecular/materials discovery
 * Data-driven methods for large-scale quantum yield prediction
-
-Please feel free to [e-mail](mailto:bli3@caltech.edu) for collaborations.
