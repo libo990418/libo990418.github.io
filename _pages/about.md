@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The long-term objective of B.L.'s research has been to computationally enable molecular solutions to scientific and technological challenges in the fields of biology, materials, and catalysis. To this end, he has been working collaboratively or independently at the interface of applied molecular modeling, application-oriented method development, and deep learning, with applications to various domains of relevance. B.L. has 17 publications until Nov 2022 (8 as corresponding or (co-)1st author, 4 as 1st computational contributor in collaboration).
+The long-term objective of B.L.'s research has been to computationally enable molecular solutions to scientific and technological challenges in the fields of biology, materials, and catalysis. To this end, he has been working collaboratively or independently at the interface of applied molecular modeling, application-oriented method development, and deep learning, with applications to various domains of relevance. B.L. has 17 publications until Nov 2022 (8 as corresponding or (co-)1st author, 4 as 1st computational contributor in collaboration), concentrating mostly on computational molecular discovery, mechanisms of complex catalytic reactions, and materials design for optoelectronic applications. Computational biology will be B.L.'s main research focus in the upcoming years (in transition).
 
 B.L. is currently a graduate student at Caltech (2021-present), working with pioneering theoretician Prof. [William A. Goddard, III](https://www.cce.caltech.edu/people/william-a-goddard) on a variety of topics in computational biology, materials, and catalysis. Current interests include:
 
@@ -25,8 +25,6 @@ B.L. is currently a graduate student at Caltech (2021-present), working with pio
 * Structural basis for complexity-building single-atom catalysis
 * Computational predictions of novel organic semiconductors
 * Geometric deep learning for data-driven molecular discovery
-
-While still in transition, computational biology will be B.L.'s main research focus in the upcoming years.
 
 Prior to this, B.L. obtained a B.S. in Chemistry from studies in Tianjin and Nankai Universities with visits to UCLA, UC Berkeley and Caltech. He worked with Profs. [K. N. Houk](https://www.chem.ucla.edu/houk/) (UCLA), Yanfeng Dang (TJU), Dongbing Zhao (NKU) and many others on computational studies of complex catalytic reactions regarding:
 
